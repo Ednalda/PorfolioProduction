@@ -1284,6 +1284,7 @@ h6 .small,
 h1,
 .h1 {
   font-size: 36px;
+  color:#fff;
 }
 h2,
 .h2 {
@@ -1300,6 +1301,7 @@ h4,
 h5,
 .h5 {
   font-size: 14px;
+  color: navy-blue;
 }
 h6,
 .h6 {
