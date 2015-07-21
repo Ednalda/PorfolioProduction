@@ -1446,9 +1446,10 @@ ol ol {
   list-style: none;
 }
 .list-inline {
-  padding-left: 0;
-  margin-left: -5px;
+  padding-left:2%;
+  margin-left: 1%;
   list-style: none;
+  display: inline-block;
 }
 .list-inline > li {
   display: inline-block;
