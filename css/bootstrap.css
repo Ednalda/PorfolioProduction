@@ -1130,7 +1130,7 @@ img {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  max-width: 50%;
+  max-width: 20%;
   height: auto;
 }
 .img-rounded {
@@ -1432,7 +1432,7 @@ ol ul,
 ul ol,
 ol ol {
   margin-bottom: 5px;
-  list-style-type:none;
+  
 }
 .list-unstyled {
   padding-left: 0;
