@@ -11,9 +11,9 @@ html {
 }
 body {
   margin: 5%;
-  background-color: blue;
   background-image: url(image/background.jpg) no-repeat center ;
   background-size:auto;
+  background-color: blue;
   
 }
 article,
@@ -234,7 +234,7 @@ th {
     page-break-inside: avoid;
   }
   img {
-    max-width: 50% !important;
+    max-width: 20% !important;
   }
   p,
   h2,
