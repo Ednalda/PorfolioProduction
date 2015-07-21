@@ -92,6 +92,7 @@ sub {
 }
 img {
   border: 0;
+ 
 }
 svg:not(:root) {
   overflow: hidden;
@@ -233,7 +234,7 @@ th {
     page-break-inside: avoid;
   }
   img {
-    max-width: 100% !important;
+    max-width: 50% !important;
   }
   p,
   h2,
@@ -1130,7 +1131,7 @@ img {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  max-width: 20%;
+  max-width: 100%;
   height: auto;
 }
 .img-rounded {
