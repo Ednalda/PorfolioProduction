@@ -1127,6 +1127,7 @@ figure {
 }
 img {
   vertical-align: middle;
+  width: 30%;
 }
 .img-responsive,
 .thumbnail > img,
@@ -1428,8 +1429,9 @@ a.bg-danger:focus {
 }
 ul,
 ol {
-  margin-top: 0;
+  margin-top: 2%;
   margin-bottom: 10px;
+  display: inline-block;
 }
 ul ul,
 ol ul,
@@ -3593,7 +3595,7 @@ tbody.collapse.in {
   float: left;
   min-width: 160px;
   padding: 5px 0;
-  margin: 2px 0 0;
+  margin: 2px 4px 4px;
   font-size: 14px;
   text-align: left;
   list-style: none;
