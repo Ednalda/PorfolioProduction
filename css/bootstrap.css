@@ -13,7 +13,7 @@ html {
 }
 body {
   padding: 5%;
-  background-image: url(../image/background.jpg) center no-repeat;
+  background-image: url(../image/background.jpg);
   background-size: auto auto;
 
 
@@ -51,6 +51,8 @@ template {
 }
 #porfolio{
     margin-left: 10%;
+    margin-bottom:10%
+
 }
 a {
   background-color: transparent;
