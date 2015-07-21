@@ -1446,7 +1446,7 @@ ol ol {
   list-style: none;
 }
 .list-inline {
-  padding-left:2%;
+  margin-bottom:2%;
   margin-left: 1%;
   list-style: none;
   display: inline-block;
