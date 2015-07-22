@@ -5,7 +5,7 @@
 
     2. git commit -m 'message'
 
-    3. git push productionSeverProfile master
+    3. git push productionServerProfile master
 
 
  ## Staging Server - "stagingPorfolio":
@@ -29,7 +29,7 @@
     8. git push stagingPorfolio master
 
  ## Test
- 
+
  ## Deploy to productionServerProfile (LiveServer)
 
     9. git push origin master
